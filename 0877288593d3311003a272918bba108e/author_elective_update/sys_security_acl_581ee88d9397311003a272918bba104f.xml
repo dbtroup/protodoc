@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_1067442_doclib_uploaded_document</description>
+        <name>x_1067442_doclib_uploaded_document</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 03:35:47</sys_created_on>
+        <sys_id>581ee88d9397311003a272918bba104f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1067442_doclib_uploaded_document</sys_name>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+        <sys_update_name>sys_security_acl_581ee88d9397311003a272918bba104f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 03:35:47</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="doclib">0877288593d3311003a272918bba108e</application>
+        <file_path/>
+        <instance_id>14ed0d2ddb62bdd8ae4c9027c5961940</instance_id>
+        <instance_name>dev213435</instance_name>
+        <name>sys_security_acl_581ee88d9397311003a272918bba104f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_1067442_doclib_uploaded_document</description><name>x_1067442_doclib_uploaded_document</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:35:47</sys_created_on><sys_id>581ee88d9397311003a272918bba104f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1067442_doclib_uploaded_document</sys_name><sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package><sys_policy/><sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope><sys_update_name>sys_security_acl_581ee88d9397311003a272918bba104f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:35:47</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>372662556</payload_hash>
+        <record_name>x_1067442_doclib_uploaded_document</record_name>
+        <reverted_from/>
+        <source>0877288593d3311003a272918bba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 03:35:47</sys_created_on>
+        <sys_id>dc1ee88d9397311003a272918bba1051</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8f97ece20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 03:35:47</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>141ee88dc5973110a10274531c896851</update_guid>
+        <update_guid_history>141ee88dc5973110a10274531c896851:372662556</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 03:41:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>43d68def644e454e927df3361b3e7284</sys_id>
+        <sys_metadata>581ee88d9397311003a272918bba104f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1067442_doclib_uploaded_document</sys_name>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_parent display_value="">541ee88d9397311003a272918bba1055</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+        <sys_scope_delete display_value="">1d6a4c7a1672442284152fb2aa3bb3b1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_581ee88d9397311003a272918bba104f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_581ee88d9397311003a272918bba104f">dc1ee88d9397311003a272918bba1051</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 03:41:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

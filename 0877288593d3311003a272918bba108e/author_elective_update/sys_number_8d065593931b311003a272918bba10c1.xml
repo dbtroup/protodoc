@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_1067442_doclib_lib_documents">x_1067442_doclib_lib_documents</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LIB</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-29 06:16:40</sys_created_on>
+        <sys_id>8d065593931b311003a272918bba10c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LIB</sys_name>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+        <sys_update_name>sys_number_8d065593931b311003a272918bba10c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-29 06:16:40</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="doclib">0877288593d3311003a272918bba108e</application>
+        <file_path/>
+        <instance_id>14ed0d2ddb62bdd8ae4c9027c5961940</instance_id>
+        <instance_name>dev213435</instance_name>
+        <name>sys_number_8d065593931b311003a272918bba10c1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_1067442_doclib_lib_documents">x_1067442_doclib_lib_documents</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>LIB</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-29 06:16:40</sys_created_on><sys_id>8d065593931b311003a272918bba10c1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>LIB</sys_name><sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package><sys_policy/><sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope><sys_update_name>sys_number_8d065593931b311003a272918bba10c1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-29 06:16:40</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>362978732</payload_hash>
+        <record_name>LIB</record_name>
+        <reverted_from/>
+        <source>0877288593d3311003a272918bba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-29 06:16:41</sys_created_on>
+        <sys_id>59061157935b311003a272918bba10a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cb437bdd30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-29 06:16:41</sys_updated_on>
+        <type>Number</type>
+        <update_guid>9d061157db5b31102ec85c41db1565a0</update_guid>
+        <update_guid_history>9d061157db5b31102ec85c41db1565a0:362978732</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-29 21:18:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>0752b8e0f82347b0ba3439064edd9900</sys_id>
+        <sys_metadata>8d065593931b311003a272918bba10c1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LIB</sys_name>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_parent display_value="">fd22d8579357311003a272918bba103e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+        <sys_scope_delete display_value="">1d6a4c7a1672442284152fb2aa3bb3b1</sys_scope_delete>
+        <sys_update_name>sys_number_8d065593931b311003a272918bba10c1</sys_update_name>
+        <sys_update_version display_value="sys_number_8d065593931b311003a272918bba10c1">59061157935b311003a272918bba10a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-29 21:18:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

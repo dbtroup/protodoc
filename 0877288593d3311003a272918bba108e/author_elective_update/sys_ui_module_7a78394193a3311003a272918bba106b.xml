@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Lib Documents">3678394193a3311003a272918bba1068</application>
+        <filter/>
+        <name>Lib Documents</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1067442_doclib.lib_documents_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 19:16:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7a78394193a3311003a272918bba106b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lib Documents</sys_name>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+        <sys_update_name>sys_ui_module_7a78394193a3311003a272918bba106b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 19:16:36</sys_updated_on>
+        <table>x_1067442_doclib_lib_documents</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="doclib">0877288593d3311003a272918bba108e</application>
+        <file_path/>
+        <instance_id>14ed0d2ddb62bdd8ae4c9027c5961940</instance_id>
+        <instance_name>dev213435</instance_name>
+        <name>sys_ui_module_7a78394193a3311003a272918bba106b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Lib Documents">3678394193a3311003a272918bba1068</application><filter/><name>Lib Documents</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1067442_doclib.lib_documents_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 19:16:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7a78394193a3311003a272918bba106b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Lib Documents</sys_name><sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package><sys_policy/><sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope><sys_update_name>sys_ui_module_7a78394193a3311003a272918bba106b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 19:16:36</sys_updated_on><table>x_1067442_doclib_lib_documents</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-291894984</payload_hash>
+        <record_name>Lib Documents</record_name>
+        <reverted_from/>
+        <source>0877288593d3311003a272918bba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 19:16:36</sys_created_on>
+        <sys_id>3e78394193a3311003a272918bba106e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cd0c195590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 19:16:36</sys_updated_on>
+        <type>Module</type>
+        <update_guid>7278394100a3311027eaa157a525d76e</update_guid>
+        <update_guid_history>7278394100a3311027eaa157a525d76e:-291894984</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-05 03:18:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>33dda725fae54b28ad12fef305094040</sys_id>
+        <sys_metadata>7a78394193a3311003a272918bba106b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lib Documents</sys_name>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+        <sys_scope_delete display_value="">1d6a4c7a1672442284152fb2aa3bb3b1</sys_scope_delete>
+        <sys_update_name>sys_ui_module_7a78394193a3311003a272918bba106b</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_7a78394193a3311003a272918bba106b">3e78394193a3311003a272918bba106e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-05 03:18:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

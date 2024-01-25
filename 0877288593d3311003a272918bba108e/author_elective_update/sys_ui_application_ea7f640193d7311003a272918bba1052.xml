@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>documents</name>
+        <order/>
+        <roles>x_1067442_doclib.documents_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 03:41:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ea7f640193d7311003a272918bba1052</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>documents</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+        <sys_update_name>sys_ui_application_ea7f640193d7311003a272918bba1052</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 03:41:57</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="doclib">0877288593d3311003a272918bba108e</application>
+        <file_path/>
+        <instance_id>14ed0d2ddb62bdd8ae4c9027c5961940</instance_id>
+        <instance_name>dev213435</instance_name>
+        <name>sys_ui_application_ea7f640193d7311003a272918bba1052</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>documents</name><order/><roles>x_1067442_doclib.documents_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:41:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ea7f640193d7311003a272918bba1052</sys_id><sys_mod_count>0</sys_mod_count><sys_name>documents</sys_name><sys_overrides/><sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package><sys_policy/><sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope><sys_update_name>sys_ui_application_ea7f640193d7311003a272918bba1052</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:41:57</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>-1153459308</payload_hash>
+        <record_name>documents</record_name>
+        <reverted_from/>
+        <source>0877288593d3311003a272918bba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 03:41:57</sys_created_on>
+        <sys_id>2a7f640193d7311003a272918bba1054</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8f9d90ab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 03:41:57</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>6e7f6401a9d73110bc26c79f367d8053</update_guid>
+        <update_guid_history>6e7f6401a9d73110bc26c79f367d8053:-1153459308</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-29 21:19:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>0d0ec98b2aa64ed48665f10eaf59fb90</sys_id>
+        <sys_metadata>ea7f640193d7311003a272918bba1052</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>documents</sys_name>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+        <sys_scope_delete display_value="">1d6a4c7a1672442284152fb2aa3bb3b1</sys_scope_delete>
+        <sys_update_name>sys_ui_application_ea7f640193d7311003a272918bba1052</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_ea7f640193d7311003a272918bba1052">2a7f640193d7311003a272918bba1054</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-29 21:19:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

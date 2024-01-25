@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="my document library">e607445193ab311003a272918bba1043</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>my document</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>my-document</route_type>
+        <screen_type display_value="my document">ac870c9193ab311003a272918bba106f</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-04 05:41:31</sys_created_on>
+        <sys_id>3887009593ab311003a272918bba1040</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>my document</sys_name>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+        <sys_update_name>sys_ux_app_route_3887009593ab311003a272918bba1040</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-04 05:41:31</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=3887009593ab311003a272918bba1040"/>
+</record_update>

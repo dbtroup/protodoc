@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="87f1388193d7311003a272918bba109d" sys_domain="global" table="x_1067442_doclib_documents" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>cbf1388193d7311003a272918bba109f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owner</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>43f1388193d7311003a272918bba10a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reviewers</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>c7f1388193d7311003a272918bba10a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>03f1388193d7311003a272918bba109f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>4ff1388193d7311003a272918bba109f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>c3f1388193d7311003a272918bba10a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>4bf1388193d7311003a272918bba10a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>classification</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>c7f1388193d7311003a272918bba109f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>cff1388193d7311003a272918bba109f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>47f1388193d7311003a272918bba10a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>cbf1388193d7311003a272918bba10a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>default_version</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_id>4bf1388193d7311003a272918bba109f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1067442_doclib_documents</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87f1388193d7311003a272918bba109d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1067442_doclib_documents</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+            <sys_update_name>sys_ui_section_87f1388193d7311003a272918bba109d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">3aa778757db1311076daf29f52070de0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="doclib">0877288593d3311003a272918bba108e</application>
+        <file_path/>
+        <instance_id>14ed0d2ddb62bdd8ae4c9027c5961940</instance_id>
+        <instance_name>dev213435</instance_name>
+        <name>sys_ui_section_87f1388193d7311003a272918bba109d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="87f1388193d7311003a272918bba109d" sys_domain="global" table="x_1067442_doclib_documents" version="3" view="workspace"><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>cbf1388193d7311003a272918bba109f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>owner</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>43f1388193d7311003a272918bba10a0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>reviewers</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>c7f1388193d7311003a272918bba10a0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>template</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>03f1388193d7311003a272918bba109f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>4ff1388193d7311003a272918bba109f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>department</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>c3f1388193d7311003a272918bba10a0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>4bf1388193d7311003a272918bba10a0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>classification</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>c7f1388193d7311003a272918bba109f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>cff1388193d7311003a272918bba109f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>47f1388193d7311003a272918bba10a0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>cbf1388193d7311003a272918bba10a0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>default_version</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_id>4bf1388193d7311003a272918bba109f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">87f1388193d7311003a272918bba109d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1067442_doclib_documents</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 03:52:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>87f1388193d7311003a272918bba109d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1067442_doclib_documents</sys_name><sys_overrides/><sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package><sys_policy/><sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope><sys_update_name>sys_ui_section_87f1388193d7311003a272918bba109d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 03:52:54</sys_updated_on><sys_user/><title>false</title><view display_value="Workspace" name="workspace">3aa778757db1311076daf29f52070de0</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>723576237</payload_hash>
+        <record_name>documents</record_name>
+        <reverted_from/>
+        <source>0877288593d3311003a272918bba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 03:52:54</sys_created_on>
+        <sys_id>cff1bc8193d7311003a272918bba105e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8fa797b60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 03:52:54</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>cbf1388167d73110fb6f993191f912a2</update_guid>
+        <update_guid_history>cbf1388167d73110fb6f993191f912a2:723576237</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-29 01:19:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>126c55a68f6b4a659acd6bab65435609</sys_id>
+        <sys_metadata>87f1388193d7311003a272918bba109d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1067442_doclib_documents</sys_name>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_parent display_value="">555f2c8d9397311003a272918bba105d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+        <sys_scope_delete display_value="">1d6a4c7a1672442284152fb2aa3bb3b1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_87f1388193d7311003a272918bba109d</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_87f1388193d7311003a272918bba109d">cff1bc8193d7311003a272918bba105e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-29 01:19:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

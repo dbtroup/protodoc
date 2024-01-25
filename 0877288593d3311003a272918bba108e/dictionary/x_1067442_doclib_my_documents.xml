@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dcf460e79357711003a272918bba103d" extends="ds_document" label="My Documents" max_length="40" name="x_1067442_doclib_my_documents" type="collection">
+        <element display="true" label="Upload" max_length="40" name="upload" type="file_attachment"/>
+    </element>
+</database>

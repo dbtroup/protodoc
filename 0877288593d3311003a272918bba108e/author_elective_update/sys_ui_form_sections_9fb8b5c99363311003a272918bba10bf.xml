@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="9fb8b5c99363311003a272918bba10bf" sys_domain="global" table="x_1067442_doclib_lib_documents" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 19:17:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7b87d4193a3311003a272918bba107e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1067442_doclib_lib_documents" name="x_1067442_doclib_lib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">9fb8b5c99363311003a272918bba10bf</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_lib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">27b87d4193a3311003a272918bba1078</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 19:17:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 19:17:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7b87d4193a3311003a272918bba1082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1067442_doclib_lib_documents" name="x_1067442_doclib_lib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">9fb8b5c99363311003a272918bba10bf</sys_ui_form>
+            <sys_ui_section caption="Access Settings" display_value="Access Settings" name="x_1067442_doclib_lib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">efb87d4193a3311003a272918bba107e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 19:17:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1067442_doclib_lib_documents</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 19:17:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fb8b5c99363311003a272918bba10bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1067442_doclib_lib_documents</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9fb8b5c99363311003a272918bba10bf</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 19:17:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">3aa778757db1311076daf29f52070de0</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="doclib">0877288593d3311003a272918bba108e</application>
+        <file_path/>
+        <instance_id>14ed0d2ddb62bdd8ae4c9027c5961940</instance_id>
+        <instance_name>dev213435</instance_name>
+        <name>sys_ui_form_sections_9fb8b5c99363311003a272918bba10bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="9fb8b5c99363311003a272918bba10bf" sys_domain="global" table="x_1067442_doclib_lib_documents" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 19:17:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a7b87d4193a3311003a272918bba107e</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1067442_doclib_lib_documents" name="x_1067442_doclib_lib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">9fb8b5c99363311003a272918bba10bf</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="x_1067442_doclib_lib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">27b87d4193a3311003a272918bba1078</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 19:17:45</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 19:17:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a7b87d4193a3311003a272918bba1082</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1067442_doclib_lib_documents" name="x_1067442_doclib_lib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">9fb8b5c99363311003a272918bba10bf</sys_ui_form><sys_ui_section caption="Access Settings" display_value="Access Settings" name="x_1067442_doclib_lib_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">efb87d4193a3311003a272918bba107e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 19:17:45</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_1067442_doclib_lib_documents</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 19:17:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9fb8b5c99363311003a272918bba10bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1067442_doclib_lib_documents</sys_name><sys_overrides/><sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package><sys_policy/><sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope><sys_update_name>sys_ui_form_sections_9fb8b5c99363311003a272918bba10bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 19:17:44</sys_updated_on><sys_user/><view display_value="Workspace" name="workspace">3aa778757db1311076daf29f52070de0</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>-100475097</payload_hash>
+        <record_name>Lib Documents</record_name>
+        <reverted_from/>
+        <source>0877288593d3311003a272918bba1090</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 19:17:45</sys_created_on>
+        <sys_id>a7b87d4193a3311003a272918bba1084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cd0c2a0b50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 19:17:45</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>6fb87d41fea33110bae647aceabce083</update_guid>
+        <update_guid_history>6fb87d41fea33110bae647aceabce083:-100475097,6fb8b5c9ff633110eef4e25df9c33ec1:215332014</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-05 03:18:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>5c6eac847c92442fbfe8368909a98519</sys_id>
+        <sys_metadata>9fb8b5c99363311003a272918bba10bf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1067442_doclib_lib_documents</sys_name>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_parent display_value="">1258b18d9363311003a272918bba1042</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+        <sys_scope_delete display_value="">1d6a4c7a1672442284152fb2aa3bb3b1</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_9fb8b5c99363311003a272918bba10bf</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_9fb8b5c99363311003a272918bba10bf">a7b87d4193a3311003a272918bba1084</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-05 03:18:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

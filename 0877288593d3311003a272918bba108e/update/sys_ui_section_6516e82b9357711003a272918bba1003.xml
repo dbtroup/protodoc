@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Access Settings" section_id="6516e82b9357711003a272918bba1003" sys_domain="global" table="x_1067442_doclib_my_documents" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>inherited_access</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-29 21:25:43</sys_created_on>
+            <sys_id>6916e82b9357711003a272918bba1004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Access Settings" display_value="Access Settings" name="x_1067442_doclib_my_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6516e82b9357711003a272918bba1003</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 21:25:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admins_access</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-29 21:25:43</sys_created_on>
+            <sys_id>e116e82b9357711003a272918bba1004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Access Settings" display_value="Access Settings" name="x_1067442_doclib_my_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6516e82b9357711003a272918bba1003</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 21:25:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-29 21:25:43</sys_created_on>
+            <sys_id>6516e82b9357711003a272918bba1004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Access Settings" display_value="Access Settings" name="x_1067442_doclib_my_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6516e82b9357711003a272918bba1003</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 21:25:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>share_access</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-29 21:25:43</sys_created_on>
+            <sys_id>e516e82b9357711003a272918bba1004</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Access Settings" display_value="Access Settings" name="x_1067442_doclib_my_documents" sys_domain="global" view="3aa778757db1311076daf29f52070de0">6516e82b9357711003a272918bba1003</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 21:25:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Access Settings</caption>
+            <header>false</header>
+            <name>x_1067442_doclib_my_documents</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-29 21:25:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6516e82b9357711003a272918bba1003</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1067442_doclib_my_documents</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="doclib">0877288593d3311003a272918bba108e</sys_scope>
+            <sys_update_name>sys_ui_section_6516e82b9357711003a272918bba1003</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-29 21:25:43</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">3aa778757db1311076daf29f52070de0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

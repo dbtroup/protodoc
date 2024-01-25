@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Document Management" source="com.snc.platform_document_management">45a0589c9353311003a272918bba1031</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 03:35:48</sys_created_on>
+        <sys_id>6c1ee88d9397311003a272918bba1065</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="doclib" source="x_1067442_doclib">0877288593d3311003a272918bba108e</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 03:35:48</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
